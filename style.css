@@ -1,9 +1,11 @@
 .imglogo{
     width: 150px;
+    margin-left: 500px;
 }
 
 .portada{
     width: 650px;
+    margin-left: 100px;
 }
 
 .imagenesinicio{
@@ -47,7 +49,7 @@
 
 /* diseño */
 body{
-    background-color: rgba(253, 108, 222, 0.541);
+    background-color: rgba(245, 167, 228, 0.541);
 }
 
 
